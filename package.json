@@ -1,0 +1,22 @@
+{
+  "name": "parse-query-params",
+  "version": "1.0.0",
+  "description": "Takes an array of objects containing key / value pairs and returns them in form of query string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullish/parse-query-params.git"
+  },
+  "keywords": [
+    "query parameters"
+  ],
+  "author": "Nullish",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nullish/parse-query-params/issues"
+  },
+  "homepage": "https://github.com/nullish/parse-query-params#readme"
+}
