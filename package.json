@@ -1,6 +1,6 @@
 {
   "name": "parse-query-params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes an array of objects containing key / value pairs and returns them in form of query string.",
   "main": "index.js",
   "scripts": {
